@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #51DEDC;
+}
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: 'Amatic SC', cursive;
+  font-size: 4em;
+  margin: 0;
+}
+
+.program {
+  background-color: #79EB76;
+  width: 400px;
+  height: 300px;
+  box-shadow: 5px 5px 4px gray;
+  border-radius: 10px;
+  margin: auto;
+
+
+}
+
+.program p {
+  padding: 20px;
+  text-align: center;
+  font-family: fantasy;
+
+  }
+
+.program button {
+  background-color: #C9F564;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 15px;
+  color: #000;
+  height: 30px;
+  width: 110px;
+  border-style: solid;
+  border-radius: 10px;
+  position: relative;
+  left: 35%;
+}
+
+.program input {
+  background-color: #FF6B6B;
+  height: 25px;
+  border-radius: 7px;
+  border-style:  inherit;
+  color: #fff;
+  font-size: 20px;
+
+}
+.program button:hover {
+  background-color: #C3F551;
+  box-shadow: 3px 3px 5px gray;
+
+
+}
